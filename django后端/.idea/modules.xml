@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/pyq.iml" filepath="$PROJECT_DIR$/.idea/pyq.iml" />
+      <module fileurl="file://E:/大学文件/smile/smile-django/.idea/smile.iml" filepath="E:/大学文件/smile/smile-django/.idea/smile.iml" />
+    </modules>
+  </component>
+</project>
